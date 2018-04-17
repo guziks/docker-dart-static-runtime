@@ -6,7 +6,7 @@ Intended to be used with base builder image: [dart-static-builder](https://hub.d
 
 ## Tags
 
-Available tags correspond to those of [debian:*-slim](https://hub.docker.com/r/library/debian/).
+Available tags correspond to those of [debian:*-slim](https://hub.docker.com/r/library/debian/). Latest points to `stable-slim`.
 
 ## Usage
 
