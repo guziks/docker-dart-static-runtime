@@ -2,7 +2,7 @@
 
 Docker base image for use as a runtime for your dart server side applications.
 
-List of "static" images: 
+List of "static" images (all are "onbuild"):
  
 * [dart-static-builder](https://hub.docker.com/r/guziks/dart-static-builder) 
 * [dart-static-trainer](https://hub.docker.com/r/guziks/dart-static-trainer) 
