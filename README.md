@@ -2,7 +2,12 @@
 
 Docker base image for use as a runtime for your dart server side applications.
 
-Intended to be used with base builder image: [dart-static-builder](https://hub.docker.com/r/guziks/dart-static-builder). 
+List of "static" images: 
+ 
+* [dart-static-builder](https://hub.docker.com/r/guziks/dart-static-builder) 
+* [dart-static-trainer](https://hub.docker.com/r/guziks/dart-static-trainer) 
+* [dart-static-runtime](https://hub.docker.com/r/guziks/dart-static-runtime) (this one)
+* [dart-static](https://hub.docker.com/r/guziks/dart-static) 
 
 ## Tags
 
@@ -10,4 +15,4 @@ Available tags correspond to those of [debian:*-slim](https://hub.docker.com/r/l
 
 ## Usage
 
-See [dart-static-builder](https://hub.docker.com/r/guziks/dart-static-builder).
+See [dart-static-builder](https://hub.docker.com/r/guziks/dart-static-builder) or [dart-static-trainer](https://hub.docker.com/r/guziks/dart-static-trainer).
